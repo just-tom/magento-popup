@@ -7,7 +7,8 @@ app/locale/es_ES/Etailers_Popup.csv    app/locale/es_ES/Etailers_Popup.csv
 app/locale/fr_FR/Etailers_Popup.csv    app/locale/fr_FR/Etailers_Popup.csv
 app/locale/it_IT/Etailers_Popup.csv    app/locale/it_IT/Etailers_Popup.csv
 app/locale/pt_PT/Etailers_Popup.csv    app/locale/pt_PT/Etailers_Popup.csv
+js/jquery/jquery.cookie.js    js/jquery/jquery.cookie.js
+js/jquery/fancybox    js/jquery/fancybox
 lib/Varien/Data/Form/Element/Image.php    lib/Varien/Data/Form/Element/Image.php
 skin/frontend/base/default/css/etailers/popup    skin/frontend/base/default/css/etailers/popup
-skin/frontend/base/default/js    skin/frontend/base/default/js
 skin/frontend/base/default/image/etailers/popup    skin/frontend/base/default/image/etailers/popup

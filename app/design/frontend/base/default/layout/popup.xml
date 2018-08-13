@@ -5,6 +5,7 @@
 			<action method="addCss"><stylesheet>css/etailers/popup/popup.css</stylesheet></action> 
 			<action method="addCss"><stylesheet>css/etailers/popup/jquery.fancybox.css</stylesheet></action>
 			<action method="addJs"><script>jquery/fancybox/source/jquery.fancybox.js</script></action>
+			<action method="addJs"><script>jquery/jquery.cookie.js</script></action>
         </reference>
 		<reference name="before_body_end">
 			<block type="popup/popup" name="popup" template="etailers/popup/popup.phtml"></block>
