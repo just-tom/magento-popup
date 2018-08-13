@@ -1,0 +1,12 @@
+app/code/local/Etailers/Popup    app/code/local/Etailers/Popup
+app/design/adminhtml/default/default/layout/popup.xml    app/design/adminhtml/default/default/layout/popup.xml
+app/design/frontend/base/default/layout/popup.xml    app/design/frontend/base/default/layout/popup.xml
+app/design/frontend/base/default/template/etailers/popup    app/design/frontend/base/default/template/etailers/popup
+app/etc/modules/Etailers_Popup.xml    app/etc/modules/Etailers_Popup.xml
+app/locale/es_ES/Etailers_Popup.csv    app/locale/es_ES/Etailers_Popup.csv
+app/locale/fr_FR/Etailers_Popup.csv    app/locale/fr_FR/Etailers_Popup.csv
+app/locale/it_IT/Etailers_Popup.csv    app/locale/it_IT/Etailers_Popup.csv
+app/locale/pt_PT/Etailers_Popup.csv    app/locale/pt_PT/Etailers_Popup.csv
+lib/Varien/Data/Form/Element/Image.php    lib/Varien/Data/Form/Element/Image.php
+skin/frontend/base/default/css/etailers/popup    skin/frontend/base/default/css/etailers/popup
+skin/frontend/base/default/image/etailers/popup    skin/frontend/base/default/image/etailers/popup

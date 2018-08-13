@@ -1,0 +1,7 @@
+{
+    "name": "virfaure/magento-popup",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
