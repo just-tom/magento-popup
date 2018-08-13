@@ -9,4 +9,5 @@ app/locale/it_IT/Etailers_Popup.csv    app/locale/it_IT/Etailers_Popup.csv
 app/locale/pt_PT/Etailers_Popup.csv    app/locale/pt_PT/Etailers_Popup.csv
 lib/Varien/Data/Form/Element/Image.php    lib/Varien/Data/Form/Element/Image.php
 skin/frontend/base/default/css/etailers/popup    skin/frontend/base/default/css/etailers/popup
+skin/frontend/base/default/js    skin/frontend/base/default/js
 skin/frontend/base/default/image/etailers/popup    skin/frontend/base/default/image/etailers/popup
